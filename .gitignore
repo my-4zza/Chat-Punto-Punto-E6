@@ -1,0 +1,38 @@
+# ==========================================
+# Caché y archivos compilados de Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==========================================
+# Entornos virtuales (por si usan alguno)
+# ==========================================
+venv/
+env/
+.venv/
+
+# ==========================================
+# Archivos de Sistema Operativo
+# ==========================================
+# (Útil ya que tú usas Linux y tus compañeros podrían usar Windows/Mac)
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ==========================================
+# Configuraciones de editores de código
+# ==========================================
+.vscode/
+.idea/
+
+# ==========================================
+# Archivos específicos del proyecto
+# ==========================================
+# Ignorar los archivos descargados durante las pruebas para no saturar el repo
+results/received/*
+!results/received/.gitkeep
+!results/received/.gitignore
+
+# Nota: No se ignora *.log globalmente porque la actividad pide 
+# los logs de prueba como evidencia en results/logs/
