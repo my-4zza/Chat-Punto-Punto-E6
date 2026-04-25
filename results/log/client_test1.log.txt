@@ -1,0 +1,6 @@
+2026-04-24 16:55:39,030 - INFO - Conectado a 192.168.137.1:5000
+2026-04-24 16:56:00,873 - INFO - Mensaje recibido: Servidor: & C:/Users/azael/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/azael/Downloads/VS CODE/ChatP2P/src/utils.py"
+2026-04-24 16:57:00,817 - INFO - Mensaje enviado: hola
+2026-04-24 16:57:58,334 - INFO - Mensaje enviado: py src/utils.py
+2026-04-24 16:58:39,699 - INFO - Conectado a 192.168.137.1:5000
+2026-04-24 16:58:51,944 - INFO - Mensaje enviado: he vuelto

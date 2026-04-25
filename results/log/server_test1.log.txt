@@ -1,0 +1,12 @@
+2026-04-24 11:34:06,950 - INFO - Servidor iniciado en 0.0.0.0:5000
+2026-04-24 12:04:44,437 - INFO - Conexión aceptada de ('192.168.1.78', 55418)
+2026-04-24 12:07:28,960 - INFO - Mensaje de ('192.168.1.78', 55418): hola esto es una prueba de conexion de santi
+2026-04-24 12:08:26,542 - INFO - Mensaje de ('192.168.1.78', 55418): hola habla la mac cliente
+2026-04-24 12:09:26,820 - INFO - Servidor envió: Hola cliente te responde el servidor
+2026-04-24 12:14:09,068 - INFO - Mensaje de ('192.168.1.78', 55418): prueba 2 de cliente
+2026-04-24 12:14:21,002 - INFO - Servidor envió: Copiado cliente responde el servidor
+2026-04-24 12:58:27,388 - INFO - Servidor envió: cliente?
+2026-04-24 12:58:32,836 - INFO - Mensaje de ('192.168.1.78', 55418): hola
+2026-04-24 13:09:21,253 - INFO - Mensaje de ('192.168.1.78', 55418): echo "Este es un archivo de prueba para el equipo E6." > prueba.txt
+2026-04-24 13:10:28,997 - INFO - Mensaje de ('192.168.1.78', 55418): ls
+2026-04-24 13:15:40,607 - INFO - Servidor envió: py file_transfer.py --mode receive --host 0.0.0.0
