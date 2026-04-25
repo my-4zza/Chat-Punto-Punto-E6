@@ -28,8 +28,7 @@ Este archivo registra el historial de cambios, mejoras y correcciones realizadas
 | 24/04/2026 | v0.0.0 | Antonio de Jesus Portilla Duran (`Antonioportillaxd`) | docs | Se añade el LEARNED_PYTHON.md  |
 | 24/04/2026 | v1.0.0 | Alfredo Cid Garcia (`Alfredxs19`) | feat | Se integro el codigo de transferencia de datos completo y mas eficiente. |
 | 24/04/2026 | v1.0.0 | Jimmy Loucioss Alarcón Galván (`Jimmy-alarcon`) | feat | Se hace una mejora total al código de servidor. |
-| 4/24/26| 0.1.0 | implementación de foto |  Alegría Ponce José Santiago (`AlegriaPonceJoseSantiago343`) |
-
+| 4/24/26| 0.1.0 | implementación de foto |  Alegría Ponce José Santiago (`AlegriaPonceJoseSantiago343`)| feat |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
