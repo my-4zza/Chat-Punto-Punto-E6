@@ -77,14 +77,14 @@ py src/file_transfer.py --mode send --host [IP_DEL_RECEPTOR] --file prueba.txt
 ---
 
 ## Equipo E6 - Integrantes
-| Nombre del Integrante ||Usuarios de github|| Contacto (Matrícula y Correo) |
-| :--- | :--- |
-| **Azael Pérez González** ||my-4zza || Matrícula: zs24013146 - [zs24013146@estudiantes.uv.mx](mailto:zs24013146@estudiantes.uv.mx) |
-| **José Santiago Alegría Ponce** ||AlegriaPonceJoseSantiago343 || Matrícula: zs24013141 - [zs24013141@estudiantes.uv.mx](mailto:zs24013141@estudiantes.uv.mx) |
-| **Juan Carlos Hernández García** ||jhernandezgarcia887|| Matrícula: zs24013178 - [zs24013178@estudiantes.uv.mx](mailto:zs24013178@estudiantes.uv.mx) |
-| **Alfredo Cid García** ||Alfredxs19|| Matrícula: zs24013120 - [zs24013120@estudiantes.uv.mx](mailto:zs24013120@estudiantes.uv.mx) |
-| **Antonio De Jesus Portilla Durán** ||Antonioportillaxd|| Matrícula: zs24013166 - [zs24013166@estudiantes.uv.mx](mailto:zs24013166@estudiantes.uv.mx) |
-| **Jimmy Loucioss Alarcon Galván** ||Jimmy-alarcon|| Matrícula: zs24013200 - [zs24013200@estudiantes.uv.mx](mailto:zs24013200@estudiantes.uv.mx) |
+| Nombre del Integrante | Usuario de GitHub | Contacto (Matrícula y Correo) |
+| :--- | :--- | :--- |
+| **Azael Pérez González** | [@my-4zza](https://github.com/my-4zza) | zs24013146 - [zs24013146@estudiantes.uv.mx](mailto:zs24013146@estudiantes.uv.mx) |
+| **José Santiago Alegría Ponce** | [@AlegriaPonceJoseSantiago343](https://github.com/AlegriaPonceJoseSantiago343) | zs24013141 - [zs24013141@estudiantes.uv.mx](mailto:zs24013141@estudiantes.uv.mx) |
+| **Juan Carlos Hernández García** | [@jhernandezgarcia887](https://github.com/jhernandezgarcia887) | zs24013178 - [zs24013178@estudiantes.uv.mx](mailto:zs24013178@estudiantes.uv.mx) |
+| **Alfredo Cid García** | [@Alfredxs19](https://github.com/Alfredxs19) | zs24013120 - [zs24013120@estudiantes.uv.mx](mailto:zs24013120@estudiantes.uv.mx) |
+| **Antonio De Jesús Portilla Durán** | [@Antonioportillaxd](https://github.com/Antonioportillaxd) | zs24013166 - [zs24013166@estudiantes.uv.mx](mailto:zs24013166@estudiantes.uv.mx) |
+| **Jimmy Loucioss Alarcón Galván** | [@Jimmy-alarcon](https://github.com/Jimmy-alarcon) | zs24013200 - [zs24013200@estudiantes.uv.mx](mailto:zs24013200@estudiantes.uv.mx) |
 ---
 
 ## Seguridad
