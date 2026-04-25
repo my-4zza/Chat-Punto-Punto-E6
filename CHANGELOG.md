@@ -14,13 +14,13 @@ Este archivo registra el historial de cambios, mejoras y correcciones realizadas
 | 24/04/2026 | v0.0.1 | Azael Pérez Gonzáez (`my-4zza`) | chore | Creación del directorio scripts para utilidades de red. |
 | 24/04/2026 | v0.0.1 | Azael Pérez Gonzáez (`my-4zza`) | chore | Adición de CHANGELOG.md para la bitácora. |
 | 24/04/2026 | v0.0.1 | Azael Pérez Gonzáez (`my-4zza`) | chore | Añadir .gitignore para excluir archivos de sistema. |
-| 24/04/2026 | :--- | :--- | :--- | :--- |
-| 24/04/2026 | :--- | :--- | :--- | :--- |
-| 24/04/2026 | :--- | :--- | :--- | :--- |
-| 24/04/2026 | :--- | :--- | :--- | :--- |
-| 24/04/2026 | :--- | :--- | :--- | :--- |
-| 24/04/2026 | :--- | :--- | :--- | :--- |
-| 24/04/2026 | :--- | :--- | :--- | :--- |
+| 24/04/2026 | v0.1.0 | Jimmy Loucioss Alarcón Galván (`Jimmy-alarcon`) | feat | Creación de la estructura inicial del servidor TCP. |
+| 24/04/2026 | v0.1.0 | Jimmy Loucioss Alarcón Galván (`Jimmy-alarcon`) | docs | Correcion en el titulo de la estructura del servidor. |
+| 24/04/2026 | v0.2.0 | Jimmy Loucioss Alarcón Galván (`Jimmy-alarcon`) | feat | Se agrega un bucle de escucha continua en servidor. |
+| 24/04/2026 | v0.3.0 | Jimmy Loucioss Alarcón Galván (`Jimmy-alarcon`) | feat | Se integra un argparse y logging en servidor. |
+| 24/04/2026 | v0.4.0 | Jimmy Loucioss Alarcón Galván (`Jimmy-alarcon`) | feat | Se implementa un multihilo y un broadcast en el servidor. |
+| 24/04/2026 | v0.4.1 | Jimmy Loucioss Alarcón Galván (`Jimmy-alarcon`) | fix | Se añade una mejora ligera para prevenir un crasheo del servidor. |
+| 24/04/2026 | v1.0.0 | Jimmy Loucioss Alarcón Galván (`Jimmy-alarcon`) | feat | Se hace una mejora total al código de servidor. |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
