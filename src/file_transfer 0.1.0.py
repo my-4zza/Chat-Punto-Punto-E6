@@ -1,28 +1,42 @@
 #Autor:Alfredo
-#Modificador: Jose santiago
+#Modificador: Alfredo
 #Fecha:24/04/26
 
 import socket
 import argparse
+import os
 
 def recibir_archivo(host, port):
     server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     server.bind((host, port))
     server.listen(1)
-    print(f"[*] Esperando archivo en {host}:{port}...")
+    print(f"[*] Esperando archivo...")
     
     conn, addr = server.accept()
     with conn:
-        print(f"[+] Conexión de {addr} para transferencia.")
-        mensaje = conn.recv(1024).decode('utf-8')
-        print(f"[*] Mensaje recibido: {mensaje}")
+        print(f"[+] Recibiendo de {addr}")
+        with open('archivo_recibido.txt', 'wb') as f:
+            while True:
+                chunk = conn.recv(4096)
+                if not chunk: break
+                f.write(chunk)
+        print("[*] Transferencia finalizada.")
     server.close()
 
 def enviar_archivo(host, port, ruta_archivo):
+    if not os.path.exists(ruta_archivo):
+        return print("[!] El archivo no existe.")
+
     cliente = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     cliente.connect((host, port))
-    cliente.sendall(b'Hola, estoy listo para enviar el archivo')
-    print("[*] Conexion exitosa y mensaje enviado.")
+    print(f"[*] Enviando {ruta_archivo}...")
+    
+    with open(ruta_archivo, 'rb') as f:
+        while True:
+            chunk = f.read(4096)
+            if not chunk: break
+            cliente.sendall(chunk)
+    print("[*] Archivo enviado.")
     cliente.close()
 
 if __name__ == "__main__":
@@ -32,7 +46,6 @@ if __name__ == "__main__":
     parser.add_argument('--port', type=int, default=5001)
     parser.add_argument('--file')
     args = parser.parse_args()
-    
     if args.mode == 'receive': recibir_archivo(args.host, args.port)
     elif args.mode == 'send': enviar_archivo(args.host, args.port, args.file)
 
