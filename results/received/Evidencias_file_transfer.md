@@ -12,3 +12,11 @@
 
 # Carpeta received
 <img width="1104" height="328" alt="Carpeta received" src="https://github.com/user-attachments/assets/fcc95176-7850-42bd-b1fd-edaf79ed7427" />
+
+
+# Prueba texto windows
+<img width="1600" height="1042" alt="Prueba_texto_windows" src="https://github.com/user-attachments/assets/dcec2868-25e0-4388-a278-8f574de8fa97" />
+
+
+# Mensaje de prueba mac
+<img width="1423" height="568" alt="Mensaje_prueba_mac" src="https://github.com/user-attachments/assets/ab57384b-9c3b-4f24-a737-96dd290f7305" />
