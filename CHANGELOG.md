@@ -83,10 +83,10 @@ Este archivo registra el historial de cambios, mejoras y correcciones realizadas
 ---
 
 ### Guía de Referencia (Tipos de Aporte)
-* **feat**: Nueva característica o funcionalidad.
-* **fix**: Corrección de un error o bug.
-* **docs**: Cambios solo en la documentación.
-* **refactor**: Cambio en el código que no corrige errores ni añade funciones.
-* **test**: Añadir pruebas o evidencias (capturas/logs).
-* **build**: Cambios que afectan al sistema de construcción o dependencias.
-* **clean**: Limpieza de comentarios o código innecesario.
+* *feat*: Nueva característica o funcionalidad.
+* *fix*: Corrección de un error o bug.
+* *docs*: Cambios solo en la documentación.
+* *refactor*: Cambio en el código que no corrige errores ni añade funciones.
+* *test*: Añadir pruebas o evidencias (capturas/logs).
+* *build*: Cambios que afectan al sistema de construcción o dependencias.
+* *chore*: Tareas de mantenimiento, configuración del entorno o herramientas.
