@@ -1,3 +1,4 @@
+# Misma red wifi casa 
 # Muestra de proceso de conexión entre laptop MAC (cliente) y laptop Windows (host) 
 <img width="860" height="279" alt="pruebaConexionWifiCasa1" src="https://github.com/user-attachments/assets/39134467-92fb-43cb-a63d-e226a66d3b04" />
 
