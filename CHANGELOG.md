@@ -6,14 +6,14 @@ Este archivo registra el historial de cambios, mejoras y correcciones realizadas
 
 | Fecha | Versión | Autor | Tipo | Acción / Commit Significativo |
 | :--- | :--- | :--- | :--- | :--- |
-| 24/04/2026 | v0.0.1 | Azael Pérez Gonzáez (my-4zza) | chore | Creación del directorio src para código fuente. |
-| 24/04/2026 | v0.0.1 | Azael Pérez Gonzáez (my-4zza) | chore | Creación del directorio docs para documentación. |
-| 24/04/2026 | v0.0.1 | Azael Pérez Gonzáez (my-4zza) | chore | Creación del directorio images para evidencias. |
-| 24/04/2026 | v0.0.1 | Azael Pérez Gonzáez (my-4zza) | chore | Creación del directorio para logs de ejecución. |
-| 24/04/2026 | v0.0.1 | Azael Pérez Gonzáez (my-4zza) | chore | Creación del directorio para archivos recibidos. |
-| 24/04/2026 | v0.0.1 | Azael Pérez Gonzáez (my-4zza) | chore | Creación del directorio scripts para utilidades de red. |
-| 24/04/2026 | v0.0.1 | Azael Pérez Gonzáez (my-4zza) | chore | Adición de CHANGELOG.md para la bitácora. |
-| 24/04/2026 | v0.0.1 | Azael Pérez Gonzáez (my-4zza) | chore | Añadir .gitignore para excluir archivos de sistema. |
+| 24/04/2026 | v0.0.1 | Azael Pérez Gonzáez (`my-4zza`) | chore | Creación del directorio src para código fuente. |
+| 24/04/2026 | v0.0.1 | Azael Pérez Gonzáez (`my-4zza`) | chore | Creación del directorio docs para documentación. |
+| 24/04/2026 | v0.0.1 | Azael Pérez Gonzáez (`my-4zza`) | chore | Creación del directorio images para evidencias. |
+| 24/04/2026 | v0.0.1 | Azael Pérez Gonzáez (`my-4zza`) | chore | Creación del directorio para logs de ejecución. |
+| 24/04/2026 | v0.0.1 | Azael Pérez Gonzáez (`my-4zza`) | chore | Creación del directorio para archivos recibidos. |
+| 24/04/2026 | v0.0.1 | Azael Pérez Gonzáez (`my-4zza`) | chore | Creación del directorio scripts para utilidades de red. |
+| 24/04/2026 | v0.0.1 | Azael Pérez Gonzáez (`my-4zza`) | chore | Adición de CHANGELOG.md para la bitácora. |
+| 24/04/2026 | v0.0.1 | Azael Pérez Gonzáez (`my-4zza`) | chore | Añadir .gitignore para excluir archivos de sistema. |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
