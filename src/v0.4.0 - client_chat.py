@@ -1,23 +1,30 @@
 # Autor: Hernández García Juan Carlos
-# v0.3.0
+# v0.4.0
 
 import socket
 import argparse
 import logging
+import os
+import threading
 
+os.makedirs('../results/logs', exist_ok=True)
 logging.basicConfig(filename='../results/logs/client_test1.log', level=logging.INFO)
+
+def recibir(sock):
+    while True:
+        data = sock.recv(1024)
+        print(f"\n{data.decode()}")
 
 def start_client(host, port):
     client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     client_socket.connect((host, port))
-    logging.info(f"Conectado a {host}:{port}")
+    
+    # BUG/FALTA: Los hilos no son daemon. Si haces Ctrl+C, el programa se queda colgado en segundo plano.
+    threading.Thread(target=recibir, args=(client_socket,)).start()
 
     while True:
-        mensaje = input("Cliente: ")
-        client_socket.sendall(mensaje.encode('utf-8'))
-        
-        data = client_socket.recv(1024)
-        print(f"Servidor: {data.decode('utf-8')}")
+        msg = input("")
+        client_socket.sendall(msg.encode())
 
 if _name_ == "_main_":
     parser = argparse.ArgumentParser()
