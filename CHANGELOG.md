@@ -16,6 +16,7 @@ Este archivo registra el historial de cambios, mejoras y correcciones realizadas
 | 24/04/2026 | v0.0.1 | Azael Pérez Gonzáez (`my-4zza`) | chore | Añadir .gitignore para excluir archivos de sistema. |
 | 24/04/2026 | v0.1.0 | Jimmy Loucioss Alarcón Galván (`Jimmy-alarcon`) | feat | Creación de la estructura inicial del servidor TCP. |
 | 24/04/2026 | v0.2.0 | Jimmy Loucioss Alarcón Galván (`Jimmy-alarcon`) | feat | Se agrega un bucle de escucha continua en servidor. |
+| 24/04/2026 | v0.1.0 | Alfredo Cid Garcia (`Alfredxs19`) | feat | Se agrega el codigo base de transferia de documentos. |
 | 24/04/2026 | v0.3.0 | Jimmy Loucioss Alarcón Galván (`Jimmy-alarcon`) | feat | Se integra un argparse y logging en servidor. |
 | 24/04/2026 | v0.4.0 | Jimmy Loucioss Alarcón Galván (`Jimmy-alarcon`) | feat | Se implementa un multihilo y un broadcast en el servidor. |
 | 24/04/2026 | v0.4.1 | Jimmy Loucioss Alarcón Galván (`Jimmy-alarcon`) | fix | Se añade una mejora ligera para prevenir un crasheo del servidor. |
