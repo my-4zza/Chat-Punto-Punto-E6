@@ -9,6 +9,7 @@
 
 # Contenido SRC file_transfer y pruebatxt
 <img width="1407" height="299" alt="filetransfer_4-24-26_ContenidoSRC" src="https://github.com/user-attachments/assets/add1dfb0-ec7e-4bb9-866a-a22d56067377" />
+
 ### se muestra el archivo txt que se va a enviar
 
 
@@ -24,9 +25,9 @@
 <img width="1104" height="328" alt="Carpeta received" src="https://github.com/user-attachments/assets/fcc95176-7850-42bd-b1fd-edaf79ed7427" />
 
 
-# Prueba texto windows
+# Prueba texto Mac
 <img width="1600" height="1042" alt="Prueba_texto_windows" src="https://github.com/user-attachments/assets/dcec2868-25e0-4388-a278-8f574de8fa97" />
 
 
-# Mensaje de prueba mac
+# Mensaje de prueba windows
 <img width="1423" height="568" alt="Mensaje_prueba_mac" src="https://github.com/user-attachments/assets/ab57384b-9c3b-4f24-a737-96dd290f7305" />
