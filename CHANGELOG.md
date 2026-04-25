@@ -34,6 +34,9 @@ Este archivo registra el historial de cambios, mejoras y correcciones realizadas
 | 24/04/2026 | v1.0.0 | Antonio de Jesus Portilla Duran (`Antonioportillaxd`) | docs | Se añadio los archivos log de pruebas de clientes y servidores |
 | 24/04/2026 | v1.0.0 | Antonio de Jesus Portilla Duran (`Antonioportillaxd`) | docs | Se añadio las capturas de pruebas hotspot|
 | 24/04/2026 | v0.3.0 | Alfredo Cid Garcia (`Alfredxs19`) | feat | Se agregaron las imagenes de pruebas. |
+| 24/04/2026 | v1.0.0 | Azael Pérez González (`my-4zza`) | test | Test de utils y logs: Validación de IP local y escritura de eventos. |
+| 24/04/2026 | v1.0.0 | Azael Pérez González (`my-4zza`) | test | Persistencia de datos: Verificación de archivos .log en la carpeta results. |
+| 24/04/2026 | v1.0.0 | Azael Pérez González (`my-4zza`) | test | Conectividad Hotspot: Validación de IPs y enlace exitoso de red. |
 | 24/04/2026 | v1.0.0 | Antonio de Jesus Portilla Duran (`Antonioportillaxd`) | docs | Se añadio informacion para el documento Desicion.md|
 | 24/04/2026 | v1.0.0 |  Jimmy Loucioss Alarcón Galván (`Jimmy-alarcon`) | feat | Se añidio informacion al documento Desicion.md.|
 | 24/04/2026 | :--- | :--- | :--- | :--- |
