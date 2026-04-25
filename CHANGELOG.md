@@ -40,6 +40,7 @@ Este archivo registra el historial de cambios, mejoras y correcciones realizadas
 | 24/04/2026 | v1.0.0 | Antonio de Jesus Portilla Duran (`Antonioportillaxd`) | docs | Se añadio informacion para el documento Desicion.md|
 | 24/04/2026 | v1.0.0 |  Jimmy Loucioss Alarcón Galván (`Jimmy-alarcon`) | feat | Se añidio informacion al documento Desicion.md.|
 | 24/04/2026 | :--- | :--- | :--- | :--- |
+| 24/04/2026 | v1.0.0 | Azael Pérez González (`my-4zza`) | docs | Teoría de redes: Creación de THEORY.md con conceptos de sockets, TCP/UDP, NAT y seguridad básica. |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
