@@ -12,6 +12,10 @@
 
 ### se muestra el archivo txt que se va a enviar
 
+# Confirmación Windows
+<img width="1600" height="402" alt="RecibidoWindows" src="https://github.com/user-attachments/assets/4d76f6af-ebd2-409a-b93e-f7928a460c68" />
+
+### confirmacion de datos recibidos txt en windows
 
 # Carpeta src en windows
 <img width="1428" height="625" alt="Src en windows" src="https://github.com/user-attachments/assets/6793ef05-6d2b-4209-a7bf-5b016f657881" />
