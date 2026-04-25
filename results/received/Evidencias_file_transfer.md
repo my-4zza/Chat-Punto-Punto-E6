@@ -8,7 +8,8 @@
 ### En la imagen se muestra la ruta para verificar el archivo a enviar de MAC  a Windows
 
 # Contenido SRC file_transfer y pruebatxt
-<img width="1388" height="536" alt="filetransferResults_4-24-26_srcMac" src="https://github.com/user-attachments/assets/7f3ecf2a-4d2b-4bba-ae26-ac856c4c8f13" />
+<img width="1407" height="299" alt="filetransfer_4-24-26_ContenidoSRC" src="https://github.com/user-attachments/assets/add1dfb0-ec7e-4bb9-866a-a22d56067377" />
+### se muestra el archivo txt que se va a enviar
 
 
 # Carpeta src en windows
