@@ -77,14 +77,14 @@ py src/file_transfer.py --mode send --host [IP_DEL_RECEPTOR] --file prueba.txt
 ---
 
 ## Equipo E6 - Integrantes
-| Nombre del Integrante | Contacto (Matrícula y Correo) |
+| Nombre del Integrante ||Usuarios de github|| Contacto (Matrícula y Correo) |
 | :--- | :--- |
-| **Azael Pérez González** | Matrícula: zs24013146 - [zs24013146@estudiantes.uv.mx](mailto:zs24013146@estudiantes.uv.mx) |
-| **José Santiago Alegría Ponce** | Matrícula: zs24013141 - [zs24013141@estudiantes.uv.mx](mailto:zs24013141@estudiantes.uv.mx) |
-| **Juan Carlos Hernández García** | Matrícula: zs24013178 - [zs24013178@estudiantes.uv.mx](mailto:zs24013178@estudiantes.uv.mx) |
-| **Alfredo Cid García** | Matrícula: zs24013120 - [zs24013120@estudiantes.uv.mx](mailto:zs24013120@estudiantes.uv.mx) |
-| **Antonio De Jesus Portilla Durán** | Matrícula: zs24013166 - [zs24013166@estudiantes.uv.mx](mailto:zs24013166@estudiantes.uv.mx) |
-| **Jimmy Loucioss Alarcon Galván** | Matrícula: zs24013200 - [zs24013200@estudiantes.uv.mx](mailto:zs24013200@estudiantes.uv.mx) |
+| **Azael Pérez González** ||my-4zza || Matrícula: zs24013146 - [zs24013146@estudiantes.uv.mx](mailto:zs24013146@estudiantes.uv.mx) |
+| **José Santiago Alegría Ponce** ||AlegriaPonceJoseSantiago343 || Matrícula: zs24013141 - [zs24013141@estudiantes.uv.mx](mailto:zs24013141@estudiantes.uv.mx) |
+| **Juan Carlos Hernández García** ||jhernandezgarcia887|| Matrícula: zs24013178 - [zs24013178@estudiantes.uv.mx](mailto:zs24013178@estudiantes.uv.mx) |
+| **Alfredo Cid García** ||Alfredxs19|| Matrícula: zs24013120 - [zs24013120@estudiantes.uv.mx](mailto:zs24013120@estudiantes.uv.mx) |
+| **Antonio De Jesus Portilla Durán** ||Antonioportillaxd|| Matrícula: zs24013166 - [zs24013166@estudiantes.uv.mx](mailto:zs24013166@estudiantes.uv.mx) |
+| **Jimmy Loucioss Alarcon Galván** ||Jimmy-alarcon|| Matrícula: zs24013200 - [zs24013200@estudiantes.uv.mx](mailto:zs24013200@estudiantes.uv.mx) |
 ---
 
 ## Seguridad
