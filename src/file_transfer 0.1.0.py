@@ -1,3 +1,5 @@
+# Autor: Alfredo
+# fecha:24/04/2026
 import argparse
 
 def recibir_archivo(host, port):
@@ -22,3 +24,6 @@ if __name__ == "__main__":
             print("[!] Debes especificar el archivo con --file")
         else:
             enviar_archivo(args.host, args.port, args.file)
+            # Esto es lo que se pone en la terminal CMD
+            # git add src/file_transfer.py
+# git commit -m "feat: crear estructura inicial y argparse para transferencia de archivos — [Nombre del Integrante 4]"
