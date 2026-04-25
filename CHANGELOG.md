@@ -30,7 +30,7 @@ Este archivo registra el historial de cambios, mejoras y correcciones realizadas
 | 24/04/2026 | v1.0.0 | Jimmy Loucioss Alarcón Galván (`Jimmy-alarcon`) | feat | Se hace una mejora total al código de servidor. |
 | 4/24/26| 0.1.0 |  Alegría Ponce José Santiago (`AlegriaPonceJoseSantiago343`) |  feat| implementación de foto |
 | 24/04/2026 | v0.2.0 | Alfredo Cid Garcia (`Alfredxs19`) | feat | Se agregaron las imagenes de las carpetas. |
-| 24/04/2026 | :--- | :--- | :--- | :--- |
+| 24/04/2026 | v0.3.0 | Alfredo Cid Garcia (`Alfredxs19`) | feat | Se agregaron las imagenes de pruebas. |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
