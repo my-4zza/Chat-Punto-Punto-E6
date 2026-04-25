@@ -21,9 +21,12 @@ Este archivo registra el historial de cambios, mejoras y correcciones realizadas
 | 24/04/2026 | v0.2.0| Alegria Ponce jose Santiago (`Alegriaponcejosesantiago343`) | feat | modificación de transfer_file |
 | 24/04/2026 | v0.4.0 | Jimmy Loucioss Alarcón Galván (`Jimmy-alarcon`) | feat | Se implementa un multihilo y un broadcast en el servidor. |
 | 24/04/2026 | v0.3.0 | Alfredo Cid Garcia (`Alfredxs19`) | feat | Se hizo una mejora a el codigo de transferencia de datos. |
+| 24/04/2026 | v0.0.0 | Antonio de Jesus Portilla Duran (`Antonioportillaxd`) | docs | Se añade el THEORY.md  |
 | 24/04/2026 | v0.4.1 | Jimmy Loucioss Alarcón Galván (`Jimmy-alarcon`) | fix | Se añade una mejora ligera para prevenir un crasheo del servidor. |
 | 24/04/2026 | v0.4.0 | Alegria Ponce jose Santiago (`Alegriaponcejosesantiago343`) | feat | Integré la función de hashing y un protocolo de encabezado con la estructura (FILENAME|SIZE|SHA256) |
-| 24/04/2026 | v0.3.0 | Alfredo Cid Garcia (`Alfredxs19`) | feat | Se integro el codigo de transferencia de datos completo y mas eficiente. |
+| 24/04/2026 | v0.0.0 | Antonio de Jesus Portilla Duran (`Antonioportillaxd`) | docs | Se añade el DECISION.md  |
+| 24/04/2026 | v0.0.0 | Antonio de Jesus Portilla Duran (`Antonioportillaxd`) | docs | Se añade el LEARNED_PYTHON.md  |
+| 24/04/2026 | v1.0.0 | Alfredo Cid Garcia (`Alfredxs19`) | feat | Se integro el codigo de transferencia de datos completo y mas eficiente. |
 | 24/04/2026 | v1.0.0 | Jimmy Loucioss Alarcón Galván (`Jimmy-alarcon`) | feat | Se hace una mejora total al código de servidor. |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
