@@ -87,5 +87,5 @@ py src/file_transfer.py --mode send --host [IP_DEL_RECEPTOR] --file prueba.txt
 | **Jimmy Loucioss Alarcon Galván** | Matrícula: zs24013200 - [zs24013200@estudiantes.uv.mx](mailto:zs24013200@estudiantes.uv.mx) |
 ---
 
-## 🛡️ Seguridad
+## Seguridad
 Este software fue diseñado para fines académicos. Se recomienda usar solo en redes privadas y cerrar los puertos/hotspot tras finalizar las pruebas.
