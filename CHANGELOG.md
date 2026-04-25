@@ -52,11 +52,11 @@ Este archivo registra el historial de cambios, mejoras y correcciones realizadas
 | 24/04/2026 | v0.3.0 |  Alegría Ponce José Santiago (`AlegriaPonceJoseSantiago343`) | Actualización de foto confirmando la conexión de laptop mac same_network_conn |
 | 24/04/2026 | v1.0.0 | Alfredo Cid Garcia (`Alfredxs19`) | chore | Se Actualizo el readme. |
 | 24/04/2026 | v1.0.0 | Azael Pérez González (`my-4zza`) | build | Creación de requirements.txt detallando uso exclusivo de la biblioteca estándar y requerimiento de Python 3.8+. |
-| 24/04/2026 | v0.1.0 | Hernandez Garcia Juan Carlos | jhernandezgarcia887 | Configuración inicial del socket cliente con IP y puerto fijos en el código. Envía un mensaje predeterminado en formato de bytes al conectar y cierra el socket. |
-| 24/04/2026 | v0.2.0 | Hernandez Garcia Juan Carlos | jhernandezgarcia887-del| Implementación de bucle while e input() para permitir al usuario escribir sus propios mensajes en lugar de uno estático. Problema conocido: el cliente se bloquea esperando la respuesta del servidor obligatoriamente. |
-| 24/04/2026 | v0.3.0 | Hernandez Garcia Juan Carlos|jhernandezgarcia887-del| Soporte para argumentos de terminal (haciendo --host requerido). Se implementa la configuración de logging hacia client_test1.log. Bug potencial: fallará si la carpeta contenedora no existe en el sistema operativo. |
-| 24/04/2026 | v0.4.0 | Hernandez Garcia Juan Carlos | jhernandezgarcia887-del |Uso de threading para aislar la función recibir(). Ahora el cliente puede escuchar al servidor y escribir en la consola al mismo tiempo sin bloqueos. Falta configurar los hilos como daemon. |
-| 24/04/2026 |v1.0.0 |Hernandez Garcia Juan Carlos | jhernandezgarcia887-del | Se hace la mejora final del codigo del client_chat.py |
+| 24/04/2026 | v0.1.0 | Hernandez Garcia Juan Carlos(`jhernandezgarcia887-del`) |src | Configuración inicial del socket cliente con IP y puerto fijos en el código. Envía un mensaje predeterminado en formato de bytes al conectar y cierra el socket. |
+| 24/04/2026 | v0.2.0 | Hernandez Garcia Juan Carlos(`jhernandezgarcia887-del`)  | src| Implementación de bucle while e input() para permitir al usuario escribir sus propios mensajes en lugar de uno estático. Problema conocido: el cliente se bloquea esperando la respuesta del servidor obligatoriamente. |
+| 24/04/2026 | v0.3.0 | Hernandez Garcia Juan Carlos(`jhernandezgarcia887-del`) |src| Soporte para argumentos de terminal (haciendo --host requerido). Se implementa la configuración de logging hacia client_test1.log. Bug potencial: fallará si la carpeta contenedora no existe en el sistema operativo. |
+| 24/04/2026 | v0.4.0 | Hernandez Garcia Juan Carlos(`jhernandezgarcia887-del`)  | src |Uso de threading para aislar la función recibir(). Ahora el cliente puede escuchar al servidor y escribir en la consola al mismo tiempo sin bloqueos. Falta configurar los hilos como daemon. |
+| 24/04/2026 |v1.0.0 |Hernandez Garcia Juan Carlos(`jhernandezgarcia887-del`)  | src | Se hace la mejora final del codigo del client_chat.py |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
