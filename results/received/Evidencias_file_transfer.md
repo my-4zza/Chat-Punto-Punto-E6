@@ -10,7 +10,7 @@
 # Contenido SRC file_transfer y pruebatxt
 <img width="1407" height="299" alt="filetransfer_4-24-26_ContenidoSRC" src="https://github.com/user-attachments/assets/add1dfb0-ec7e-4bb9-866a-a22d56067377" />
 
-### se muestra el archivo txt que se va a enviar
+### se muestra el archivo txt que se va a enviar.
 
 # Confirmación Windows
 <img width="1600" height="402" alt="RecibidoWindows" src="https://github.com/user-attachments/assets/4d76f6af-ebd2-409a-b93e-f7928a460c68" />
