@@ -2,6 +2,15 @@
 <img width="700" height="500" alt="transfer_4-24-26_verificación_pase_archivo" src="https://github.com/user-attachments/assets/da77f147-6c66-4615-9061-7f63d995a742" />
 ## La imagen muestra la terminal de MAC en la que exitosamente se transfirió el archivo pruebatxt
 
+# src MAC
+<img width="1388" height="536" alt="filetransferResults_4-24-26_srcMac" src="https://github.com/user-attachments/assets/3de20b98-a616-439d-aaf5-4f0c7fb39c8b" />
+
+### En la imagen se muestra la ruta para verificar el archivo a enviar de MAC  a Windows
+
+# Contenido SRC file_transfer y pruebatxt
+<img width="1388" height="536" alt="filetransferResults_4-24-26_srcMac" src="https://github.com/user-attachments/assets/7f3ecf2a-4d2b-4bba-ae26-ac856c4c8f13" />
+
+
 # Carpeta src en windows
 <img width="1428" height="625" alt="Src en windows" src="https://github.com/user-attachments/assets/6793ef05-6d2b-4209-a7bf-5b016f657881" />
 
