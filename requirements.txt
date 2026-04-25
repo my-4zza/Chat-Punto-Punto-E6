@@ -1,0 +1,49 @@
+# ============================================================================
+# ESPECIFICACIONES TÉCNICAS Y DEPENDENCIAS
+# PROYECTO: Chat P2P Wi-Fi y Transferencia de Archivos
+# ============================================================================
+
+# ----------------------------------------------------------------------------
+# 1. DECLARACIÓN DE DEPENDENCIAS EXTERNAS
+# ----------------------------------------------------------------------------
+# Este proyecto ha sido desarrollado bajo la directriz de utilizar exclusivamente 
+# la Biblioteca Estándar de Python (Python Standard Library). 
+# 
+# NO SE REQUIERE la instalación de paquetes de terceros. Por lo tanto, la 
+# ejecución del comando 'pip install -r requirements.txt' no descargará 
+# ninguna dependencia externa, garantizando un entorno limpio y portátil.
+
+# ----------------------------------------------------------------------------
+# 2. REQUISITOS DEL ENTORNO
+# ----------------------------------------------------------------------------
+# - Lenguaje: Python
+# - Versión mínima requerida: >= 3.8.0
+# - Sistema Operativo: Multiplataforma (Windows 10/11 recomendado para Hotspot)
+
+# ----------------------------------------------------------------------------
+# 3. MÓDULOS DE LA BIBLIOTECA ESTÁNDAR IMPLEMENTADOS
+# ----------------------------------------------------------------------------
+# A continuación se documentan los módulos nativos integrados en la arquitectura 
+# del servidor, cliente y script de transferencia de archivos:
+
+# --- Infraestructura de Red ---
+# socket      : Implementación del protocolo TCP (conexión, envío y recepción).
+
+# --- Concurrencia y Paralelismo ---
+# threading   : Manejo de múltiples clientes simultáneos y flujos de escucha/escritura.
+
+# --- Criptografía e Integridad ---
+# hashlib     : Generación de checksums (SHA256) para validación de transferencia de archivos.
+
+# --- Interacción con el Sistema Operativo ---
+# os          : Interacciones a nivel de sistema (limpieza de consola, manejo de hilos huérfanos).
+# subprocess  : Ejecución de comandos de red nativos (ej. netsh) para automatización.
+# pathlib     : Gestión de rutas multiplataforma (lectura y escritura en /results/received).
+
+# --- Herramientas de Diagnóstico y Ejecución ---
+# argparse    : Parametrización de la ejecución por consola (--host, --port).
+# logging     : Sistema de trazabilidad y registro estructurado de eventos en archivos .log.
+
+# ============================================================================
+# FIN DE LAS ESPECIFICACIONES
+# ============================================================================
