@@ -42,7 +42,7 @@ Este archivo registra el historial de cambios, mejoras y correcciones realizadas
 | 24/04/2026 | :--- | :--- | :--- | :--- |
 | 24/04/2026 | v1.0.0 | Azael Pérez González (`my-4zza`) | docs | Teoría de redes: Creación de THEORY.md con conceptos de sockets, TCP/UDP, NAT y seguridad básica. |
 | 24/04/2026 | v1.0.0 | Alfredo Cid Garcia (`Alfredxs19`) | chore | Se Actualizo el readme. |
-| 24/04/2026 | :--- | :--- | :--- | :--- |
+| 24/04/2026 | v1.0.0 | Azael Pérez González (`my-4zza`) | build | Creación de requirements.txt detallando uso exclusivo de la biblioteca estándar y requerimiento de Python 3.8+. |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
 | 24/04/2026 | :--- | :--- | :--- | :--- |
